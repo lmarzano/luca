@@ -1,4 +1,5 @@
-baseURL: https://lmarzano.github.io
+baseURL: https://lmarzano.github.io/luca
+canonifyurls: true
 languageCode: en-us
 title: "Luca Marzano"
 theme: hugo-profile
