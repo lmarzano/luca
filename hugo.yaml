@@ -155,12 +155,12 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a PhD candidate in Medicine and technology at KTH Royal Institute of Technology. My research focuses on the design of data-driven approaches to achieve real-world evidence in healthcare from several perspectives. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      Driven by an unwavering enthusiasm, I am committed to making a significant impact in healthcare, society and inspiring others with my determination.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here some of my case studies and projects:"
       items:
         - "HTML"
         - "CSS"
