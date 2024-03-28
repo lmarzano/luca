@@ -127,8 +127,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Luca."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I design data-driven approaches for Real-World Evidence in healthcare"
+    content: "Driven by an unwavering enthusiasm, I am committed to making a significant impact in healthcare, society and inspiring others with my determination."
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -155,9 +155,10 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a PhD candidate in Medicine and technology at KTH Royal Institute of Technology. My research focuses on the design of data-driven approaches to achieve real-world evidence in healthcare from several perspectives. 
+      I am a PhD candidate at KTH Royal Institute of Technology, enrolled in the medicine and technology program. My research project focuses on developing data-driven approaches to achieve real-world evidence in various healthcare fields, including oncology, clinical trials design, emergency medicine, psychiatry care for children and adolescents, and health complex adaptive systems. With a background in applied physics, I have previously worked on successfully developing deep learning and complex graph theory applications in neuroimaging. 
 
-      Driven by an unwavering enthusiasm, I am committed to making a significant impact in healthcare, society and inspiring others with my determination.
+      In my spare time, I love exploring everything from tech and innovation to culture and history. It's important for me to keep a balanced lifestyle, which comes naturally thanks to my background as a high competitive sprint kayaker. My time on the water taught me discipline and helped me win big—both nationally and internationally.”
+      
     skills:
       enable: true
       title: "Here some of my skills:"
