@@ -160,7 +160,7 @@ params:
       Driven by an unwavering enthusiasm, I am committed to making a significant impact in healthcare, society and inspiring others with my determination.
     skills:
       enable: true
-      title: "Here some of my case studies and projects:"
+      title: "Here some of my skills:"
       items:
         - "HTML"
         - "CSS"
