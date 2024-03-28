@@ -175,13 +175,13 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "DOCTORAL DEPARTMENTAL DUTIES"
-        company: "KTH Royal Institute of Technology, Stockholm, Sweden"
+      - job: "Doctoral Departmental duties"
+        company: "KTH Royal Institute of Technology"
         companyUrl: "https://example.com"
         date: "Jun 2020 - present"
         featuredLink:
           enable: true
-          name: "View the project"
+          name: "View my KTH page"
           url: "https://www.kth.se/profile/lmarzano"
         content: "As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects."
 
