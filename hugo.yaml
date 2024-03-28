@@ -157,33 +157,33 @@ params:
     content: |-
       I am a PhD candidate at KTH Royal Institute of Technology, enrolled in the medicine and technology program. My research project focuses on developing data-driven approaches to achieve real-world evidence in various healthcare fields, including oncology, clinical trials design, emergency medicine, psychiatry care for children and adolescents, and health complex adaptive systems. With a background in applied physics, I have previously worked on successfully developing deep learning and complex graph theory applications in neuroimaging. 
 
-      In my spare time, I love exploring everything from tech and innovation to culture and history. It's important for me to keep a balanced lifestyle, which comes naturally thanks to my background as a high competitive sprint kayaker. My time on the water taught me discipline and helped me win big—both nationally and internationally.”
+      In my spare time, I love exploring everything from tech and innovation to culture and history. It's important for me to keep a balanced lifestyle, which comes naturally thanks to my background as a high competitive sprint kayaker. My time on the water taught me discipline and helped me to win both national and international competitions.
 
     skills:
       enable: true
       title: "Here some of my skills:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Proficiency in R and Python"
+        - "Familiarity with Matlab, Bash Unix, C"
+        - "Problem solving and critical thinking"
+        - "Data analysis for decision-making"
+        - "Project management"
+        - "Teaching and mentoring"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
+      - job: "DOCTORAL DEPARTMENTAL DUTIES"
+        company: "KTH Royal Institute of Technology, Stockholm, Sweden"
         companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+        date: "Jun 2020 - present"
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          url: "https://www.kth.se/profile/lmarzano"
+        content: "As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects."
 
       - job: "Software Developer"
         company: "Amazon"
