@@ -127,7 +127,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Luca."
-    subtitle: "I design data-driven approaches for Real-World Evidence in healthcare"
+    subtitle: "I design data-driven approaches for Real-World Evidence"
     content: "Driven by an unwavering enthusiasm, I am committed to making a significant impact in healthcare, society and inspiring others with my determination."
     image: /images/hero.svg
     bottomImage:
@@ -158,7 +158,7 @@ params:
       I am a PhD candidate at KTH Royal Institute of Technology, enrolled in the medicine and technology program. My research project focuses on developing data-driven approaches to achieve real-world evidence in various healthcare fields, including oncology, clinical trials design, emergency medicine, psychiatry care for children and adolescents, and health complex adaptive systems. With a background in applied physics, I have previously worked on successfully developing deep learning and complex graph theory applications in neuroimaging. 
 
       In my spare time, I love exploring everything from tech and innovation to culture and history. It's important for me to keep a balanced lifestyle, which comes naturally thanks to my background as a high competitive sprint kayaker. My time on the water taught me discipline and helped me win big—both nationally and internationally.”
-      
+
     skills:
       enable: true
       title: "Here some of my skills:"
