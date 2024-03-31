@@ -190,13 +190,13 @@ params:
         info:
           enable: true
         content: |
-        As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects.
+          As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects.
         
-        I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn- och ungdomspsykiatri, BUP (Stockholm, Sweden).
+          I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn- och ungdomspsykiatri, BUP (Stockholm, Sweden).
         
-        I did teaching classes for the courses on Statistics, Machine Learning, Simulation and Modelling, and Project Carrier Course.
+          I did teaching classes for the courses on Statistics, Machine Learning, Simulation and Modelling, and Project Carrier Course.
         
-        I was the main supervisor of nine thesis projects (four bachelor, and seven master students).
+          I was the main supervisor of nine thesis projects (four bachelor, and seven master students).
 
       - job: "Traineeship on cloud computing to train machine learning models for scientific research"
         company: "National Institute of Nuclear Physics"
