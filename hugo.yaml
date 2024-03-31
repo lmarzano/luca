@@ -142,11 +142,11 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-google
-          url: https://example.com
+          url: https://scholar.google.com/citations?user=hm18iA8AAAAJ&hl=it&inst=3006122349567257957&oi=ao
         - icon: fab fa-linkedin
-          url: https://example.com
+          url: https://www.linkedin.com/in/luca-marzano-a00728196/
         - icon: fab fa-x-twitter
-          url: https://example.com
+          url: https://twitter.com/lucamarzano95
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
@@ -173,7 +173,7 @@ params:
         - "Data analysis for decision-making"
         - "Project management"
         - "Teaching and mentoring"  
-        - "Languages: Italian (mother tongue), English (C1), French (B1), and Swedish (B1)."
+        - "Languages: Italian (mother tongue), English (C1), French (B1), and Swedish (B1)"
   
 
 
@@ -217,7 +217,6 @@ params:
           My work lead to a scientific publication at the peer-reviewed journal Neuroimage (https://www.sciencedirect.com/science/article/pii/S1053811920309435)
       #   content: |
            
-
       - job: "Kayak Coach"
         company: "CUS Bari"
         companyUrl: "https://www.cusbari.it"
