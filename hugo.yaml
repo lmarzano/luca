@@ -188,13 +188,13 @@ params:
           name: "View my KTH page"
           url: "https://www.kth.se/profile/lmarzano"
         content: |-
-        "As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects."
-
-        "I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn- och ungdomspsykiatri, BUP (Stockholm, Sweden)"
-
-        "I did teaching classes for the courses on Statistics, Machine Learning, Simulation and Modelling, and Project Carrier Course."
-
-        "I was the main supervisor of nine thesis projects (four bachelor, and seven master students)."
+        As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects.
+        
+        I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn- och ungdomspsykiatri, BUP (Stockholm, Sweden).
+        
+        I did teaching classes for the courses on Statistics, Machine Learning, Simulation and Modelling, and Project Carrier Course.
+        
+        I was the main supervisor of nine thesis projects (four bachelor, and seven master students).
 
       - job: "Traineeship on cloud computing to train machine learning models for scientific research"
         company: "National Institute of Nuclear Physics"
@@ -225,7 +225,9 @@ params:
           name: "Kayak team section"
           url: "https://www.cusbari.it/sport/canoa-sezione/"
         content: |-
-         During my studies, as a competitive athlete in kayak, I worked part-time as a coach (certified by the national italian federation of kayak and canoe, FICK) at the italian centre of sports (CUS) in Bari, Italy. 
+         During my studies, as a competitive athlete in kayak, I worked part-time as a coach at the italian centre of sports (CUS) in Bari, Italy. 
+
+         I was a certified by the italian federation of canoe and kayak as basic-level kayak coach.
          
          My role was teaching how to kayak to children and university students at basic level.
 
