@@ -258,42 +258,73 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "PhD candidate in Medicine and Technology"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "KTH Royal Institute of Technology"
+          url: "https://www.kth.se"
+        date: "2020 - current"
+        #GPA: "3.8 out of 5.0"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          - Thesis title. Perspectives on designing data-driven approaches for real-world evidence in healthcare
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
+      - title: "Master Degree in Applied Physics (Cum Laude)"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
+          name: "University of Bari Aldo Moro, Physics Department Michelangelo Merlin"
+          url: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
+        date: "2017 - 2019"
+       # GPA: "3.9 out of 5.0"
+        content: |-
+          - Thesis title. Deep Learning Methods for accurate prediction of brain age
+          - Publication. My thesis work was published on the peer reviewed journal Neuroimage: (https://www.sciencedirect.com/science/article/pii/S1053811920309435)
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+        #   url: "https://example.com"
+
+      - title: "Erasmus+ Exchange"
+        school:
+          name: "Université Lille 1"
+          url: "https://www.univ-lille.fr"
+      #  GPA: "4.2 out of 5.0"
         featuredLink:
           enable: true
-          url: "https://example.com"
+        content: |-
+          Erasmus exchange at Lille (France) during the first semester of the second year of the Master Degree. 
+      #    url: "https://example.com"
+
+      - title: "Bachelor degree in Physics"
+        school:
+          name: "University of Bari Aldo Moro, Physics Department Michelangelo Merlin"
+          url: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
+        date: "2014 - 2017"
+       # GPA: "3.9 out of 5.0"
+        content: |-
+          - Thesis title. Algoritmi di deep learning dell'analisi di dati scientifici
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+        #   url: "https://example.com"
+
+      - title: "Certified courses attended at other institutions"
+       # school:
+       #   name: "University of Bari Aldo Moro, Physics Department Michelangelo Merlin"
+      #    url: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
+      #  date: "2014 - 2017"
+       # GPA: "3.9 out of 5.0"
+        content: |-
+          During the PhD.
+            - Physiologically Based Pharmacokinetic Modeling Winter school,  University of Eastern Finland, (2 days, 2 ECTS)
+            - Serious Games for Analysing and Supporting Complex Decision-Making Summer school, Radboud University (1 week, 3 ECTS)
+          During the Master.
+            - Data Science and Big Data Analytics Summer school, UCL - University College of London (3 weeks, 7.5 ECTS)
+            - Big Data in Health Research Summer school credits, University of Utrecht (1 week, 3 ECTS)
+          During the Bachelor 
+            - Computational Engineering and Technical Physics: Computer Vision and Medical Imaging Summer school, Lappeenranta University of Technology (1 week, 3 ECTS) 
+
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+        #   url: "https://example.com"
 
   # Achievements
   achievements:
