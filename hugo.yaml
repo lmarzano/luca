@@ -278,7 +278,7 @@ params:
           url: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
         date: "2017 - 2019"
        # GPA: "3.9 out of 5.0"
-        content: |
+        content: |-
           Thesis title: Deep Learning Methods for accurate prediction of brain age
           Publication: My thesis work was published on the peer reviewed journal Neuroimage
 
