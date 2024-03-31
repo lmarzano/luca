@@ -139,15 +139,9 @@ params:
       url: "#"
       download: true
       newPage: false
-    button:
-      enable: true
-      name: "Europass CV"
-      url: "#"
-      download: true
-      newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-graduation-cap
+        - icon: fab fa-google
           url: https://example.com
         - icon: fab fa-linkedin
           url: https://example.com
@@ -167,6 +161,7 @@ params:
 
       In my spare time, I love exploring everything from tech and innovation to culture and history. It's important for me to keep a balanced lifestyle, which comes naturally thanks to my background as a high competitive sprint kayaker. My time on the water taught me discipline and helped me to win both national and international competitions.
 
+      I speak Italian (mother tongue), English (C1), French (B1), and Swedish (B1). 
     skills:
       enable: true
       title: "Here some of my skills:"
@@ -177,8 +172,7 @@ params:
         - "Data analysis for decision-making"
         - "Project management"
         - "Teaching and mentoring"  
-    content: |-
-      I speak Italian (mother tongue), English (C1), French (B1), and Swedish (B1). 
+  
 
 
   # Experience
