@@ -157,11 +157,14 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a PhD candidate at KTH Royal Institute of Technology, enrolled in the medicine and technology program. My research project focuses on developing data-driven approaches to achieve real-world evidence in various healthcare fields, including oncology, clinical trials design, emergency medicine, psychiatry care for children and adolescents, and health complex adaptive systems. With a background in applied physics, I have previously worked on successfully developing deep learning and complex graph theory applications in neuroimaging. 
+      I am a PhD candidate at KTH Royal Institute of Technology, enrolled in the medicine and technology program. My research project focuses on developing data-driven approaches to achieve real-world evidence in various healthcare fields, including oncology, clinical trials design, emergency medicine, psychiatry care for children and adolescents, and health complex adaptive systems. 
+      
+      With a background in applied physics, I have previously worked on successfully developing deep learning and complex graph theory applications in neuroimaging. 
 
       In my spare time, I love exploring everything from tech and innovation to culture and history. It's important for me to keep a balanced lifestyle, which comes naturally thanks to my background as a high competitive sprint kayaker. My time on the water taught me discipline and helped me to win both national and international competitions.
 
       I speak Italian (mother tongue), English (C1), French (B1), and Swedish (B1). 
+
     skills:
       enable: true
       title: "Here some of my skills:"
@@ -199,12 +202,13 @@ params:
           url: "https://www.recas-bari.it/index.php/en/"
         info:
           enable: true
-        content: During my master thesis, I learnt how utilise cloud parallel computing techniques at the data-centre RECAS (Bari, Italy) to analyse large MRI datasets, create complex brain structure graphs, and run deep learning algorithms for brain age prediction.
+        content: During my master thesis, I learnt how utilise cloud parallel computing techniques at the Italian National Institute of nuclear Physics (INFN). 
+        I used the resources of the data-centre "RECAS" (Bari, Italy) to analyse large MRI datasets, create complex brain structure graphs, and run deep learning algorithms for brain age prediction.
         content: |
          My work lead to a scientific publication at the peer-reviewed journal Neuroimage: https://www.sciencedirect.com/science/article/pii/S1053811920309435  
 
       - job: "Kayak Coach"
-        company: "Centro Universitario Sportivo"
+        company: "CUS Bari"
         companyUrl: "https://www.cusbari.it"
         date: "Jan 2020 - Aug 2020"
         info:
@@ -213,7 +217,9 @@ params:
           enable: true
           url: "https://www.cusbari.it/sport/canoa-sezione/"
         content: |
-         During my studies, as a competitive athlete in kayak, I worked part-time as a coach (certified by the national italian federation of kayak and canoe, FICK), teaching kayaking basics to children and university students.
+         During my studies, as a competitive athlete in kayak, I worked part-time as a coach (certified by the national italian federation of kayak and canoe, FICK) at the italian centre of sports (CUS) in Bari, Italy. 
+         
+         My role was teaching how to kayak to children and university students at basic level.
 
       # - job: "UI/UX Designer"
       #   company: "Netflix"
