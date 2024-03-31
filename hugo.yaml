@@ -291,7 +291,7 @@ params:
         school:
           name: "Université Lille 1"
           url: "https://www.univ-lille.fr"
-          date: "2018 - 2019"
+        date: "2018 - 2019"
       #  GPA: "4.2 out of 5.0"
        # featuredLink:
           enable: true
