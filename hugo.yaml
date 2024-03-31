@@ -403,8 +403,8 @@ params:
         #   - icon: fab fa-github
         #     url: https://github.com/gurusabarish/HugoProfileV2
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
+      - title: "What parameters should we improve or optimise in Swedish healthcare?"
+        content: Series of proposals and students supervision for master thesis projects. Swedish primary healthcare delivery and emergency medicine were studied in dept using several approaches (e.g., simulation models, serious games, and explainable machine learning)
         image: /images/projects/profile2.jpg
         # featured:
         #   name: Demo V2
