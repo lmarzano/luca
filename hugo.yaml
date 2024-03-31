@@ -187,7 +187,7 @@ params:
           enable: true
           name: "View my KTH page"
           url: "https://www.kth.se/profile/lmarzano"
-        content: 
+        content: |-
         "As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects."
 
         "I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn- och ungdomspsykiatri, BUP (Stockholm, Sweden)"
@@ -206,7 +206,7 @@ params:
           url: "https://www.recas-bari.it/index.php/en/"
         info:
           enable: true
-        content: |
+        content: |-
           During my master thesis, I learnt how utilise cloud parallel computing techniques at the Italian National Institute of nuclear Physics (INFN). 
 
           I used the resources of the data-centre "RECAS" (Bari, Italy) to analyse large MRI datasets, create complex brain structure graphs, and run deep learning algorithms for brain age prediction.
@@ -224,7 +224,7 @@ params:
           enable: true
           name: "Kayak team section"
           url: "https://www.cusbari.it/sport/canoa-sezione/"
-        content: |
+        content: |-
          During my studies, as a competitive athlete in kayak, I worked part-time as a coach (certified by the national italian federation of kayak and canoe, FICK) at the italian centre of sports (CUS) in Bari, Italy. 
          
          My role was teaching how to kayak to children and university students at basic level.
