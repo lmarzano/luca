@@ -203,9 +203,12 @@ params:
         info:
           enable: true
         content: During my master thesis, I learnt how utilise cloud parallel computing techniques at the Italian National Institute of nuclear Physics (INFN). 
+
         I used the resources of the data-centre "RECAS" (Bari, Italy) to analyse large MRI datasets, create complex brain structure graphs, and run deep learning algorithms for brain age prediction.
-        content: |
-         My work lead to a scientific publication at the peer-reviewed journal Neuroimage: https://www.sciencedirect.com/science/article/pii/S1053811920309435  
+        
+        My work lead to a scientific publication at the peer-reviewed journal Neuroimage (https://www.sciencedirect.com/science/article/pii/S1053811920309435)
+        #content: |
+           
 
       - job: "Kayak Coach"
         company: "CUS Bari"
