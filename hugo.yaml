@@ -189,10 +189,10 @@ params:
           url: "https://www.kth.se/profile/lmarzano"
         info:
           enable: true
-        content: |
+        content: |-
           As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects.
         
-          I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn- och ungdomspsykiatri, BUP (Stockholm, Sweden).
+          I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn och ungdomspsykiatri, BUP (Stockholm, Sweden).
         
           I did teaching classes for the courses on Statistics, Machine Learning, Simulation and Modelling, and Project Carrier Course.
         
