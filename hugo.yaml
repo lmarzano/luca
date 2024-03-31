@@ -162,8 +162,7 @@ params:
       With a background in applied physics, I have previously worked on successfully developing deep learning and complex graph theory applications in neuroimaging. 
 
       In my spare time, I love exploring everything from tech and innovation to culture and history. It's important for me to keep a balanced lifestyle, which comes naturally thanks to my background as a high competitive sprint kayaker. My time on the water taught me discipline and helped me to win both national and international competitions.
-
-      I speak Italian (mother tongue), English (C1), French (B1), and Swedish (B1). 
+      
     skills:
       enable: true
       title: "Here some of my skills:"
@@ -174,6 +173,7 @@ params:
         - "Data analysis for decision-making"
         - "Project management"
         - "Teaching and mentoring"  
+        - "Languages: Italian (mother tongue), English (C1), French (B1), and Swedish (B1)."
   
 
 
@@ -190,14 +190,22 @@ params:
           enable: true
           name: "View my KTH page"
           url: "https://www.kth.se/profile/lmarzano"
-        content: "As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects."
+        content: 
+        "As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects."
+
+        "I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn- och ungdomspsykiatri, BUP (Stockholm, Sweden)"
+
+        "I did teaching classes for the courses on Statistics, Machine Learning, Simulation and Modelling, and Project Carrier Course."
+
+        "I was the main supervisor of nine thesis projects (four bachelor, and seven master students)."
 
       - job: "Traineeship on cloud computing to train machine learning models for scientific research"
-        company: "Italian National Institute of Nuclear Physics"
+        company: "National Institute of Nuclear Physics"
         companyUrl: "https://www.ba.infn.it/it/"
         date: "May 2019 - July 2019"
         featuredLink:
           enable: true
+          name: "ReCaS data-center"
           url: "https://www.recas-bari.it/index.php/en/"
         info:
           enable: true
@@ -218,6 +226,7 @@ params:
           enable: false
         featuredLink:
           enable: true
+          name: "Kayak team section"
           url: "https://www.cusbari.it/sport/canoa-sezione/"
         content: |
          During my studies, as a competitive athlete in kayak, I worked part-time as a coach (certified by the national italian federation of kayak and canoe, FICK) at the italian centre of sports (CUS) in Bari, Italy. 
