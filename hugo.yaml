@@ -142,11 +142,11 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-google
-          url: https://scholar.google.com/citations?user=hm18iA8AAAAJ&hl=it&inst=3006122349567257957&oi=ao
+          url: "https://scholar.google.com/citations?user=hm18iA8AAAAJ&hl=it&inst=3006122349567257957&oi=ao"
         - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/luca-marzano-a00728196/
+          url: "https://www.linkedin.com/in/luca-marzano-a00728196/"
         - icon: fab fa-x-twitter
-          url: https://twitter.com/lucamarzano95
+          url: "https://twitter.com/lucamarzano95"
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
@@ -173,9 +173,6 @@ params:
         - "Data analysis for decision-making"
         - "Project management"
         - "Teaching and mentoring"  
-        - "Languages: Italian (mother tongue), English (C1), French (B1), and Swedish (B1)"
-  
-
 
   # Experience
   experience:
