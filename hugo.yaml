@@ -182,7 +182,7 @@ params:
     items:
       - job: "Doctoral Departmental duties"
         company: "KTH Royal Institute of Technology"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.kth.se/en"
         date: "Jun 2020 - present"
         featuredLink:
           enable: true
@@ -192,26 +192,26 @@ params:
 
       - job: "Traineeship on cloud computing to train machine learning models for scientific research"
         company: "Italian National Institute of Nuclear Physics"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.ba.infn.it/it/"
         date: "May 2019 - July 2019"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.recas-bari.it/index.php/en/"
         info:
           enable: true
         content: During my master thesis, I learnt how utilise cloud parallel computing techniques at the data-centre RECAS (Bari, Italy) to analyse large MRI datasets, create complex brain structure graphs, and run deep learning algorithms for brain age prediction.
         content: |
-         My work lead to a scientific publication at the peer-reviewed journal Neuroimage (https://doi.org/10.1016/j.neuroimage.2020.117458). 
+         My work lead to a scientific publication at the peer-reviewed journal Neuroimage: https://www.sciencedirect.com/science/article/pii/S1053811920309435  
 
       - job: "Kayak Coach"
-        company: "Centro Universitario Sportivo (CUS)"
-        companyUrl: "https://example.com"
+        company: "Centro Universitario Sportivo"
+        companyUrl: "https://www.cusbari.it"
         date: "Jan 2020 - Aug 2020"
         info:
           enable: false
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: "https://www.cusbari.it/sport/canoa-sezione/"
         content: |
          During my studies, as a competitive athlete in kayak, I worked part-time as a coach (certified by the national italian federation of kayak and canoe, FICK), teaching kayaking basics to children and university students.
 
