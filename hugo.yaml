@@ -279,8 +279,8 @@ params:
         date: "2017 - 2019"
        # GPA: "3.9 out of 5.0"
         content: |-
-          Thesis title: Deep Learning Methods for accurate prediction of brain age
-          Publication: My thesis work was published on the peer reviewed journal Neuroimage
+        - Thesis title: Deep Learning Methods for accurate prediction of brain age
+        - Publication: My thesis work was published on the peer reviewed journal Neuroimage
 
         featuredLink:
            enable: true
