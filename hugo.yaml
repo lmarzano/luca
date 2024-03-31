@@ -164,7 +164,6 @@ params:
       In my spare time, I love exploring everything from tech and innovation to culture and history. It's important for me to keep a balanced lifestyle, which comes naturally thanks to my background as a high competitive sprint kayaker. My time on the water taught me discipline and helped me to win both national and international competitions.
 
       I speak Italian (mother tongue), English (C1), French (B1), and Swedish (B1). 
-
     skills:
       enable: true
       title: "Here some of my skills:"
@@ -202,12 +201,13 @@ params:
           url: "https://www.recas-bari.it/index.php/en/"
         info:
           enable: true
-        content: During my master thesis, I learnt how utilise cloud parallel computing techniques at the Italian National Institute of nuclear Physics (INFN). 
+        content: |
+          During my master thesis, I learnt how utilise cloud parallel computing techniques at the Italian National Institute of nuclear Physics (INFN). 
 
-        I used the resources of the data-centre "RECAS" (Bari, Italy) to analyse large MRI datasets, create complex brain structure graphs, and run deep learning algorithms for brain age prediction.
-        
-        My work lead to a scientific publication at the peer-reviewed journal Neuroimage (https://www.sciencedirect.com/science/article/pii/S1053811920309435)
-        #content: |
+          I used the resources of the data-centre "RECAS" (Bari, Italy) to analyse large MRI datasets, create complex brain structure graphs, and run deep learning algorithms for brain age prediction.
+
+          My work lead to a scientific publication at the peer-reviewed journal Neuroimage (https://www.sciencedirect.com/science/article/pii/S1053811920309435)
+      #   content: |
            
 
       - job: "Kayak Coach"
