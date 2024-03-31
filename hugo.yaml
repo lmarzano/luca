@@ -294,7 +294,7 @@ params:
         date: "2018 - 2019"
       #  GPA: "4.2 out of 5.0"
        # featuredLink:
-          enable: true
+        #enable: true
         content: |
           Erasmus exchange at Lille (France) during the first semester of the second year of the Master Degree. 
       #    url: "https://example.com"
