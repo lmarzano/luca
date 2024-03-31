@@ -264,8 +264,12 @@ params:
           url: "https://www.kth.se"
         date: "2020 - current"
         #GPA: "3.8 out of 5.0"
-        content: |-
-          - Thesis title. Perspectives on designing data-driven approaches for real-world evidence in healthcare
+        content: |
+          Thesis title: Perspectives on designing data-driven approaches for real-world evidence in healthcare
+        featuredLink:
+           enable: true
+           name: "My KTH profile"
+           url: "https://www.kth.se/profile/lmarzano"
 
       - title: "Master Degree in Applied Physics (Cum Laude)"
         school:
@@ -273,22 +277,22 @@ params:
           url: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
         date: "2017 - 2019"
        # GPA: "3.9 out of 5.0"
-        content: |-
-          - Thesis title. Deep Learning Methods for accurate prediction of brain age
-          - Publication. My thesis work was published on the peer reviewed journal Neuroimage: (https://www.sciencedirect.com/science/article/pii/S1053811920309435)
-        # featuredLink:
-        #   enable: true
-        #   name: "My academic record"
-        #   url: "https://example.com"
+        content: |
+          Thesis title: Deep Learning Methods for accurate prediction of brain age
+          Publication: My thesis work was published on the peer reviewed journal Neuroimage
+        featuredLink:
+           enable: true
+           name: "My thesis publication"
+           url: "https://www.sciencedirect.com/science/article/pii/S1053811920309435"
 
       - title: "Erasmus+ Exchange"
         school:
           name: "Université Lille 1"
           url: "https://www.univ-lille.fr"
       #  GPA: "4.2 out of 5.0"
-        featuredLink:
+       # featuredLink:
           enable: true
-        content: |-
+        content: |
           Erasmus exchange at Lille (France) during the first semester of the second year of the Master Degree. 
       #    url: "https://example.com"
 
@@ -299,7 +303,7 @@ params:
         date: "2014 - 2017"
        # GPA: "3.9 out of 5.0"
         content: |-
-          - Thesis title. Algoritmi di deep learning dell'analisi di dati scientifici
+          Thesis title. Algoritmi di deep learning dell'analisi di dati scientifici
         # featuredLink:
         #   enable: true
         #   name: "My academic record"
@@ -311,17 +315,15 @@ params:
       #    url: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
       #  date: "2014 - 2017"
        # GPA: "3.9 out of 5.0"
-        content: |-
-          During the PhD.
-            - Physiologically Based Pharmacokinetic Modeling Winter school,  University of Eastern Finland, (2 days, 2 ECTS)
-            - Serious Games for Analysing and Supporting Complex Decision-Making Summer school, Radboud University (1 week, 3 ECTS)
-         content: |- 
-          During the Master.
-            - Data Science and Big Data Analytics Summer school, UCL - University College of London (3 weeks, 7.5 ECTS)
-            - Big Data in Health Research Summer school credits, University of Utrecht (1 week, 3 ECTS)
-         content: |-
+        content: |
+          During the PhD
+            Physiologically Based Pharmacokinetic Modeling Winter school,  University of Eastern Finland, (2 days, 2 ECTS)
+            Serious Games for Analysing and Supporting Complex Decision-Making Summer school, Radboud University (1 week, 3 ECTS)
+          During the Master
+            Data Science and Big Data Analytics Summer school, UCL - University College of London (3 weeks, 7.5 ECTS)
+            Big Data in Health Research Summer school credits, University of Utrecht (1 week, 3 ECTS)
           During the Bachelor 
-            - Computational Engineering and Technical Physics: Computer Vision and Medical Imaging Summer school, Lappeenranta University of Technology (1 week, 3 ECTS) 
+            Computational Engineering and Technical Physics: Computer Vision and Medical Imaging Summer school, Lappeenranta University of Technology (1 week, 3 ECTS) 
 
         # featuredLink:
         #   enable: true
