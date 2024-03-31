@@ -319,11 +319,11 @@ params:
       #  date: "2014 - 2017"
        # GPA: "3.9 out of 5.0"
         content: |-
-          -2022. Physiologically Based Pharmacokinetic Modeling Winter school,  University of Eastern Finland, (2 days, 2 ECTS)
-          -2022. Serious Games for Analysing and Supporting Complex Decision-Making Summer school, Radboud University (1 week, 3 ECTS)
-          -2019. Data Science and Big Data Analytics Summer school, UCL - University College of London (3 weeks, 7.5 ECTS)
-          -2019. Big Data in Health Research Summer school credits, University of Utrecht (1 week, 3 ECTS)
-          -2018. Computational Engineering and Technical Physics. Computer Vision and Medical Imaging Summer school, Lappeenranta University of Technology (1 week, 3 ECTS) 
+          - 2022. Physiologically Based Pharmacokinetic Modeling Winter school,  University of Eastern Finland, (2 days, 2 ECTS)
+          - 2022. Serious Games for Analysing and Supporting Complex Decision-Making Summer school, Radboud University (1 week, 3 ECTS)
+          - 2019. Data Science and Big Data Analytics Summer school, UCL - University College of London (3 weeks, 7.5 ECTS)
+          - 2019. Big Data in Health Research Summer school credits, University of Utrecht (1 week, 3 ECTS)
+          - 2018. Computational Engineering and Technical Physics. Computer Vision and Medical Imaging Summer school, Lappeenranta University of Technology (1 week, 3 ECTS) 
 
         # featuredLink:
         #   enable: true
