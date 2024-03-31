@@ -279,8 +279,8 @@ params:
         date: "2017 - 2019"
        # GPA: "3.9 out of 5.0"
         content: |-
-        - Thesis title: Deep Learning Methods for accurate prediction of brain age
-        - Publication: My thesis work was published on the peer reviewed journal Neuroimage
+          - Thesis title: Deep Learning Methods for accurate prediction of brain age
+          - Publication: My thesis work was published on the peer reviewed journal Neuroimage
 
         featuredLink:
            enable: true
@@ -337,20 +337,20 @@ params:
     items:
       - title: Google kickstart runner
         content: I solved all problems with optimal solution.
-        url: https://example.com
+       # url: https://example.com
         image: /images/achievment.jpg
       - title: Facebook Hackathon Winner
         content: Developed a product using Artificial Intelligence.
         image: /images/achievment.jpg
       - title: Hugo Profile
         content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
+        #url: "https://github.com/gurusabarish/hugo-profile"
         image: /images/achievment.jpg
       - title: Microsoft Imagine Runner
         content: We are developed a product which can help others.
       - title: Google Summer of Code
         content: Contributed to a open source project.
-        url: https://example.com
+        #url: https://example.com
 
   # projects
   projects:
