@@ -266,6 +266,7 @@ params:
         #GPA: "3.8 out of 5.0"
         content: |
           Thesis title: Perspectives on designing data-driven approaches for real-world evidence in healthcare
+          
         featuredLink:
            enable: true
            name: "My KTH profile"
@@ -280,6 +281,7 @@ params:
         content: |
           Thesis title: Deep Learning Methods for accurate prediction of brain age
           Publication: My thesis work was published on the peer reviewed journal Neuroimage
+
         featuredLink:
            enable: true
            name: "My thesis publication"
@@ -315,15 +317,15 @@ params:
       #    url: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
       #  date: "2014 - 2017"
        # GPA: "3.9 out of 5.0"
-        content: |
-          During the PhD
-            Physiologically Based Pharmacokinetic Modeling Winter school,  University of Eastern Finland, (2 days, 2 ECTS)
-            Serious Games for Analysing and Supporting Complex Decision-Making Summer school, Radboud University (1 week, 3 ECTS)
-          During the Master
-            Data Science and Big Data Analytics Summer school, UCL - University College of London (3 weeks, 7.5 ECTS)
-            Big Data in Health Research Summer school credits, University of Utrecht (1 week, 3 ECTS)
-          During the Bachelor 
-            Computational Engineering and Technical Physics: Computer Vision and Medical Imaging Summer school, Lappeenranta University of Technology (1 week, 3 ECTS) 
+        content: |-
+          -During the PhD
+            -Physiologically Based Pharmacokinetic Modeling Winter school,  University of Eastern Finland, (2 days, 2 ECTS)
+            -Serious Games for Analysing and Supporting Complex Decision-Making Summer school, Radboud University (1 week, 3 ECTS)
+          -During the Master
+            -Data Science and Big Data Analytics Summer school, UCL - University College of London (3 weeks, 7.5 ECTS)
+            -Big Data in Health Research Summer school credits, University of Utrecht (1 week, 3 ECTS)
+          -During the Bachelor 
+            -Computational Engineering and Technical Physics: Computer Vision and Medical Imaging Summer school, Lappeenranta University of Technology (1 week, 3 ECTS) 
 
         # featuredLink:
         #   enable: true
