@@ -266,7 +266,7 @@ params:
         #GPA: "3.8 out of 5.0"
         content: |
           Thesis title: Perspectives on designing data-driven approaches for real-world evidence in healthcare
-          
+
         featuredLink:
            enable: true
            name: "My KTH profile"
@@ -291,6 +291,7 @@ params:
         school:
           name: "Université Lille 1"
           url: "https://www.univ-lille.fr"
+          date: "2019"
       #  GPA: "4.2 out of 5.0"
        # featuredLink:
           enable: true
