@@ -155,7 +155,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/Luca_sun.JPG"
     content: |-
       I am a PhD candidate at KTH Royal Institute of Technology, enrolled in the medicine and technology program. My research project focuses on developing data-driven approaches to achieve real-world evidence in various healthcare fields, including oncology, clinical trials design, emergency medicine, psychiatry care for children and adolescents, and health complex adaptive systems. 
       
