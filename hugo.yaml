@@ -129,7 +129,7 @@ params:
     title: "Luca."
     subtitle: "I design data-driven approaches for Real-World Evidence"
     content: "Driven by an unwavering enthusiasm, I am committed to making a significant impact in healthcare, society and inspiring others with my determination."
-    image: /images/hero.svg
+    image: /images/PAGE_2022.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
