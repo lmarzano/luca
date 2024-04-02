@@ -133,12 +133,12 @@ params:
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "Resume"
-      url: "#"
-      download: true
-      newPage: false
+    # button:
+    #   enable: true
+    #   name: "Resume"
+    #   url: "#"
+    #   download: true
+    #   newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-google
