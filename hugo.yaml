@@ -141,7 +141,7 @@ params:
     #   newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fa-brands fa-google-scholar
+        - icon: fa-solid fa-building-columns
           url: "https://scholar.google.com/citations?user=hm18iA8AAAAJ&hl=it&inst=3006122349567257957&oi=ao"
         - icon: fa-brands fa-orcid
           url: "https://orcid.org/0000-0002-3398-2296"
