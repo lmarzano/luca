@@ -345,7 +345,7 @@ params:
         image: /images/awards/IMG_8944.HEIC
       - title: American Society of Clinical Oncology (ASCO) Conquer Cancer foundation abstract award
         content: This award recognize students, trainees, and junior faculty for their valuable research in clinical cancer treatment and technology innovations in cancer care. The awards are supported by the Conquer Cancer Mission Endowment program.
-        image: /images/awards/IMG_7293 2.heic
+        image: /images/awards/IMG_72932.heic
       - title: Italian University Championship in Olympic Kayak
         content: Gold medal at the Italian University Championships in Canoeing Kayak Sprint (2018). Boat category C4, Distance 500m.
         #url: "https://github.com/gurusabarish/hugo-profile"
