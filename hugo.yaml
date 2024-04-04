@@ -397,7 +397,7 @@ params:
 
       - title: Coordination of units for paediatric and adolescents psychiatric care units of Stockholm Region
         content: Consultancy for the Stockholm region units of psychiatry care for children and adolescents, Barn och ungdomspsykiatri (BUP). The purpose was to conduct an exploratory analysis of the BUP units to discuss about workload issues and identify potential process improvements, from both logistic and clinical perspective.
-        image: /images/projects/profile2.jpg
+        image: /images/projects/BUP.jpg
         # featured:
         #   name: Demo V2
         #   link: https://hugo-profile-2.netlify.app
@@ -411,7 +411,7 @@ params:
 
       - title: "What parameters should we improve or optimise in Swedish healthcare?"
         content: Series of proposals and students supervision for master thesis projects. Swedish primary healthcare delivery and emergency medicine were studied in dept using several approaches (e.g., simulation models, serious games, and explainable machine learning)
-        image: /images/projects/profile2.jpg
+        image: /images/projects/VD.jpg
         # featured:
         #   name: Demo V2
         #   link: https://hugo-profile-2.netlify.app
