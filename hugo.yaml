@@ -366,7 +366,7 @@ params:
       - title: Real-world evidence to improve treatment decision and clinical trials design of small cell lung cancer
         content: 
           Doctoral thesis project in collaboration with the department of of Oncology-Pathology, Karolinska Institutet and the Thoracic Oncology Center, Karolinska University hospital (Stockholm, Sweden)
-        image: /images/projects/profile.png
+        image: /images/projects/SCLC_project.jpg
         # featured:
         #   name: Demo
         #   link: https://hugo-profile.netlify.app
@@ -384,7 +384,7 @@ params:
 
       - title: Emergency department and hospital overcrowding
         content: Consultancy for the Akademiska sjukhuset hospital (Uppsala, Sweden). The purpose was to study and propose solutions to the overcrowding of the Emergency department and the hospital wards by analysing one year of healthcare production data.
-        image: /images/projects/converter.jpg
+        image: /images/projects/Akademiska.jpg
         # featured:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
