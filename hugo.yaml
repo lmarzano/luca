@@ -189,7 +189,7 @@ params:
         date: "Jun 2020 - present"
         featuredLink:
           enable: true
-          name: "View my KTH page"
+          name: "My KTH profile"
           url: "https://www.kth.se/profile/lmarzano"
         info:
           enable: true
@@ -200,7 +200,7 @@ params:
         
           I did teaching classes for the courses on Statistics, Machine Learning, Simulation and Modelling, and Project Carrier Course.
         
-          I was the main supervisor of nine thesis projects (four bachelor, and seven master students).
+          I was the main supervisor of nine thesis projects (four bachelor, and seven master students). See more on my KTH profile.
 
       - job: "Traineeship on cloud computing to train machine learning models for scientific research"
         company: "National Institute of Nuclear Physics"
@@ -208,16 +208,16 @@ params:
         date: "May 2019 - July 2019"
         featuredLink:
           enable: true
-          name: "ReCaS data-center"
-          url: "https://www.recas-bari.it/index.php/en/"
+          name: "My published work"
+          url: "https://www.sciencedirect.com/science/article/pii/S1053811920309435"
         info:
           enable: true
         content: |
           During my master thesis, I learnt how utilise cloud parallel computing techniques at the Italian National Institute of nuclear Physics (INFN). 
 
-          I used the resources of the data-centre "RECAS" (Bari, Italy) to analyse large MRI datasets, create complex brain structure graphs, and run deep learning algorithms for brain age prediction.
+          I used the resources of the data-centre ReCaS (https://www.recas-bari.it/index.php/en/) to analyse large MRI datasets, create complex brain structure graphs, and run deep learning algorithms for brain age prediction.
 
-          My work lead to a scientific publication at the peer-reviewed journal Neuroimage (https://www.sciencedirect.com/science/article/pii/S1053811920309435)
+          My work lead to a scientific publication at the peer-reviewed journal Neuroimage (Bellantuono, L., Marzano, L., La Rocca, M., Duncan, D., Lombardi, A., Maggipinto, T., ... & Bellotti, R. (2021). Predicting brain age with complex networks: From adolescence to adulthood. NeuroImage, 225, 117458.). 
       #   content: |
            
       - job: "Kayak Coach"
@@ -269,7 +269,8 @@ params:
         date: "2020 - current"
         #GPA: "3.8 out of 5.0"
         content: |
-          Thesis title: Perspectives on designing data-driven approaches for real-world evidence in healthcare
+          - Thesis title: Perspectives on designing data-driven approaches for real-world evidence in healthcare. 
+          - Doctoral courses I took for my education duties (60 ECTS): Theory of Science and Research Method, Technological and Natural Sciences, Technology an Health, Transparency in Technical and Social Systems, Gaming and Participatory Simulation for Research and Design, Involving old people in engineering and design, Visualize your Science, Writing Scientific Articles, Nature Scientific Writing and Publishing Training, Serious Games for Analyzing and Supporting Complex Decision-Making, Entrepreneurship in Technology and Health, Physiologically Based Pharmacokinetic Modeling.       
 
         featuredLink:
            enable: true
