@@ -421,7 +421,7 @@ params:
         #   name: Demo V2
         #   link: https://hugo-profile-2.netlify.app
         badges:
-          - "Primery Healthcare delivery"
+          - "Primary Healthcare delivery"
           - "Health Systems"
           - "Policy Making"
         # links:
