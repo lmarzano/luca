@@ -177,6 +177,7 @@ params:
         - "Data analysis for decision-making"
         - "Project management"
         - "Teaching and mentoring"  
+        - "I speak English (C1), Italian (Mother Tongue), French (B1), and Swedish (B1)"
 
   # Experience
   experience:
@@ -432,7 +433,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: Mail me if you would like to receive my Resume/CV documentation. References are available under request. My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you! Vi ses snart!!1
+    content: Mail me if you would like to receive my Resume/CV documentation. References are available under request. My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you! Vi ses snart!!!
     btnName: Mail me
     btnLink: mailto:mail@lmarzano.com
     # formspree:
