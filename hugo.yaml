@@ -55,7 +55,7 @@ markup:
 
 params:
   title: "Luca Marzano"
-  description: My profile page
+  description: My profile page and digital CV
   # staticPath: ""  # The path to serve the static files from
   #favicon: "/fav.png"
   favicon: "/images/logo/LM_logo_night_in_bari.png"
@@ -133,12 +133,12 @@ params:
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
-    # button:
-    #   enable: true
-    #   name: "Resume"
-    #   url: "#"
-    #   download: true
-    #   newPage: false
+    button:
+      enable: true
+      name: "CV Request"
+      url: "mailto:mail@lmarzano.com?subject=CV%20request"
+      download: true
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fa-solid fa-building-columns
@@ -427,7 +427,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: Mail me if you would like to receive my Resume/CV documentation and my contact references. My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content: Mail me if you would like to receive my Resume/CV documentation. References are available under request. My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you! Vi ses snart!!1
     btnName: Mail me
     btnLink: mailto:mail@lmarzano.com
     # formspree:
