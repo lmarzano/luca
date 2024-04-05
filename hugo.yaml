@@ -376,10 +376,9 @@ params:
         # featured:
         #   name: Demo
         #   link: https://hugo-profile.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
+        badges:
+          - "Oncology"
+          - "Small cell lung cancer"
         # links:
         #   - icon: fa fa-envelope
         #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -394,9 +393,9 @@ params:
         # featured:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
+        badges:
+          - "Health Systems"
+          - "Operational Management"
         # links:
         #   - icon: fab fa-github
         #     url: https://github.com/gurusabarish/converter
@@ -407,10 +406,10 @@ params:
         # featured:
         #   name: Demo V2
         #   link: https://hugo-profile-2.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
+        badges:
+          - "Health Systems"
+          - "Operational Management"
+          - "Policy Making"
         # links:
         #   - icon: fab fa-github
         #     url: https://github.com/gurusabarish/HugoProfileV2
@@ -421,10 +420,10 @@ params:
         # featured:
         #   name: Demo V2
         #   link: https://hugo-profile-2.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
+        badges:
+          - "Primery Healthcare delivery"
+          - "Health Systems"
+          - "Policy Making"
         # links:
         #   - icon: fab fa-github
         #     url: https://github.com/gurusabarish/HugoProfileV2
