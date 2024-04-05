@@ -341,21 +341,24 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: European Society of Medical Oncology merit travel grant 
-        content: Throughout the year ESMO offers Merit Awards to young oncologists and researchers submitting abstracts to ESMO Meetings. The selection of Merit Award recipients is made by the Scientific Committee based on the quality of accepted abstracts.
-       # url: https://example.com
+      - title: European Society of Medical Oncology merit travel grant. 
+        content: Throughout the year ESMO offers Merit Awards to young oncologists and researchers submitting abstracts to ESMO Meetings. I received the merit travel grant for presenting at the ESMO European Confenrence on Lung Cancer 2024 (Prague, Czech Republic).
+        url: https://www.esmo.org/career-development/travel-grants-for-esmo-meetings
         image: /images/awards/IMG_8944.jpg
       - title: American Society of Clinical Oncology (ASCO) Conquer Cancer foundation abstract award
         content: This award recognize students, trainees, and junior faculty for their valuable research in clinical cancer treatment and technology innovations in cancer care. The awards are supported by the Conquer Cancer Mission Endowment program.
+        url: "https://www.conquer.org/sites/default/files/2023-07/2023%20Breakthrough%20Travel%20Award%20Recipients_0.pdf"
         image: /images/awards/IMG_72932.jpg
       - title: Italian University Championship in Olympic Kayak
         content: Gold medal at the Italian University Championships in Canoeing Kayak Sprint (2018). Boat category C4, Distance 500m.
-        #url: "https://github.com/gurusabarish/hugo-profile"
+        url: "https://www.baritoday.it/sport/il-cus-bari-trionfa-ai-campionati-italiani-universitari-2018-a-taranto-5320645.html"
         image: /images/awards/IMG_2971.JPG
       - title: Status of student-athlete
         content: This status is conferred by the University of Bari for students who have obtained important sporting results during their studies.
         image: /images/awards/IMG_9106.jpg
+        url: "https://www.uniba.it/it/ateneo/sport-uniba/comitato-sport-universitario/verbali-comitato-per-lo-sport-universitario/verbali-comitato-per-lo-sport-universitario-anno-2017/verbale-del-comitato-per-lo-sport-del-16.11.2017"
       - title: Italian National Olympic Committee (CONI) Puglia Star scholarship
+        url: "https://areariservata.sportesalute.eu/puglia/puglia/notizie/7083-coni-puglia-stars-presentata-la-nona-edizione.html"
         content: Scholarship for champions and promising individuals in the dual role of athletes and students awarded for the results achieved in 2011 (k4 200m, international race, Cat. Junior)
         image: /images/awards/IMG_0207.jpg
         #url: https://example.com
