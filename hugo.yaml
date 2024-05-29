@@ -184,7 +184,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Doctoral Departmental duties"
+      - job: "Research consultant and teaching assistant (PhD duties)"
         company: "KTH Royal Institute of Technology"
         companyUrl: "https://www.kth.se/en"
         date: "Jun 2020 - present"
@@ -198,6 +198,8 @@ params:
           As a PhD student, I undertook departmental duties that included assistant teaching, supervising student projects, and providing consultancy to healthcare institutions involved in my research projects.
         
           I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn och UngdomsPsykiatri, BUP (Stockholm, Sweden).
+
+          I have been part of the core team for the Centre of Data-Driven Healthcare (CDDH, https://www.kth.se/cddh).
         
           I did teaching classes for the courses on Statistics, Machine Learning, Simulation and Modelling, and Project Carrier Course.
         
