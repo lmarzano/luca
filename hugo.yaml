@@ -166,18 +166,20 @@ params:
       With a background in applied physics, I have previously worked on successfully developing deep learning and complex graph theory applications in neuroimaging. 
 
       In my spare time, I love exploring everything from tech and innovation to culture and history. It's important for me to keep a balanced lifestyle, which comes naturally thanks to my background as a high competitive sprint kayaker. My time on the water taught me discipline and helped me to win both national and international competitions.
+
+      I speak English (C1), Italian (Native Speaker), French (B1), and Swedish (B1). 
       
-    skills:
-      enable: true
-      title: "Here some of my skills:"
-      items:
-        - "Proficiency in R and Python"
-        - "Familiarity with Matlab, Bash Unix, C"
-        - "Problem solving and critical thinking"
-        - "Data analysis for decision-making"
-        - "Project management"
-        - "Teaching and mentoring"  
-        - "I speak English (C1), Italian (Mother Tongue), French (B1), and Swedish (B1)"
+    #skills:
+    #  enable: true
+    #  title: "Here some of my skills:"
+    #  items:
+     #   - "Proficiency in R and Python"
+     #   - "Familiarity with Matlab, Bash Unix, C"
+     #   - "Problem solving and critical thinking"
+     #   - "Data analysis for decision-making"
+     #  - "Project management"
+     #   - "Teaching and mentoring"  
+    #  - "I speak English (C1), Italian (Mother Tongue), French (B1), and Swedish (B1)"
 
   # Experience
   experience:
@@ -199,7 +201,7 @@ params:
         
           I worked on two consultancies. One regarding emergency department and hospital overcrowding for the Akademiska sjukhuset hospital (Uppsala, Sweden), and the other regarding coordination of paediatric and adolescents psychiatric care units for the Stockholm region Barn och UngdomsPsykiatri, BUP (Stockholm, Sweden).
 
-          I have been part of the core team for the Centre of Data-Driven Healthcare (CDDH, https://www.kth.se/cddh).
+          I have been part of the core team for the Centre of Data-Driven Healthcare (CDDH, https://www.kth.se/cddh), and the Young Professional Cancer (YCP) group of the European Cancer Organisation (https://www.europeancancer.org/content/young-cancer-professionals.html).
         
           I did teaching classes for the courses on Statistics, Machine Learning, Simulation and Modelling, and Project Carrier Course.
         
